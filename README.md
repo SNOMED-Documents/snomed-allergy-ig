@@ -2,6 +2,6 @@
 
 Add brief introduction to guide
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="1 introduction/">Introduction</a></td></tr><tr><td>Use Cases</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="1 introduction/">Introduction</a></td></tr><tr><td><a href="2 clinical-use-case/">Clinical Use Cases</a></td></tr></tbody></table>
 
 {% include "https://app.gitbook.com/s/5ePKL1wPtOcE6DS3HJBR/~/reusable/MLPTPVV150ldNmCkOl87/" %}

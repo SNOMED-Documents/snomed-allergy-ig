@@ -2,7 +2,7 @@
 
 Allergic, hypersensitive, and intolerant reactions can be avoided by preventing the prescription and administration of, or exposure to known trigger substances. The proper documentation of known allergic, hypersensitivity, or intolerance episodes is critical to making this knowledge available at the point of care and supporting decision-making that would prevent future situations. Information needs to be recorded with the right level of detail and context to support these processes.
 
-This page summarizes the key use cases covered by this guide. See section 4.3 for detailed examples.
+This page summarizes the key use cases covered by this guide. For more detail see the [Examples](<../4 information-model-and-terminology-binding/4.3-examples.md>) section.&#x20;
 
 ## Use Case 1: Documentation of Information Related to Allergy, Hypersensitivity, and Intolerance
 
