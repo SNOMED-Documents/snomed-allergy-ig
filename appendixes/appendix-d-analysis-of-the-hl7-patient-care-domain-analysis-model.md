@@ -4,11 +4,9 @@ This domain analysis model for allergy records was developed by the HL7 Patient 
 
 [http://www.hl7.org/implement/standards/product\_brief.cfm?product\_id=308](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=308)
 
-Figure 7: Patient Care Domain Analysis Model
+Patient Care Domain Analysis Model
 
-\*\*
-
-<figure><img src="../images/180920429.png" alt=""><figcaption><p>**</p></figcaption></figure>
+<figure><img src="../images/180920429.png" alt=""><figcaption></figcaption></figure>
 
 **Selected attribute definitions**
 
