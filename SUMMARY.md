@@ -1,10 +1,9 @@
 # Table of contents
 
-* [SNOMED CT Clinical Implementation Guide for Allergy, Hypersensitivity and Intolerance](README.md)
-* [DOCALLSIG (SNOMED CT Implementation Guide for Allergy, Hypersensitivity and Intolerance)](index.md)
+* [SNOMED CT Implementation Guide for Allergy, Hypersensitivity and Intolerance](README.md)
 * [Executive Summary](executive-summary.md)
 * [1 introduction](<1 introduction/README.md>)
-* [2 clinical-use-case](<2 clinical-use-case/README.md>)
+* [Clinical Use Cases](<2 clinical-use-case/README.md>)
 * [3. Allergy Content in SNOMED CT](<3 allergy-content-in-snomed-ct/README.md>)
 * [4. Information Model and Terminology Binding](<4 information-model-and-terminology-binding/README.md>)
   * [4.1-fhir-model](<4 information-model-and-terminology-binding/4.1-fhir-model.md>)

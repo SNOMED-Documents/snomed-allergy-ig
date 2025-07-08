@@ -4,10 +4,7 @@ The use of SNOMED CT for recording Allergy, Hypersensitivity, and Intolerance re
 
 The use of HL7® FHIR® with SNOMED CT has gained considerable momentum in recent years, and HL7 FHIR has therefore been selected as the preferred information model in this guide. The following pages will discuss recommended approaches for binding SNOMED to HL7 FHIR for documenting Allergies, Hypersensitivity, and Intolerance in the EHR.
 
-  * [4.1 FHIR model](4.1-FHIR-model_180920414.html)
-  * [4.2 Terminology Bindings](4.2-Terminology-Bindings_180920404.html)
-  * [4.3 Examples](4.3-Examples_180920405.html)
+* [4.1 FHIR model](../4%20information-model-and-terminology-binding/4.1-FHIR-model_180920414.html)
+* [4.2 Terminology Bindings](../4%20information-model-and-terminology-binding/4.2-Terminology-Bindings_180920404.html)
+* [4.3 Examples](../4%20information-model-and-terminology-binding/4.3-Examples_180920405.html)
 
-  
-
-{
