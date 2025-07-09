@@ -4,7 +4,9 @@ Status – the FHIR®/openEHR archetype for Adverse Reaction Risk is in its four
 
 [http://www.openehr.org/ckm/](http://www.openehr.org/ckm/) (search for Adverse Reaction Risk)
 
-<figure><img src="../images/180920439.png" alt=""><figcaption><p>Data elements that could be encoded include:</p></figcaption></figure>
+<figure><img src="../images/180920439.png" alt=""><figcaption></figcaption></figure>
+
+Data elements that could be encoded incude:
 
 * Substance
 * Status
@@ -15,13 +17,12 @@ Status – the FHIR®/openEHR archetype for Adverse Reaction Risk is in its four
 * Manifestation
 * Severity of reaction
 
-**Purpose**
+## **Purpose**
 
 * To record a clinical assessment of a propensity, or potential risk to an individual, of an adverse reaction upon future exposure to the specified substance, or class of substance
 * Where a propensity is identified, to record information or evidence about reaction events that is characterized by any harmful or undesirable physiological response that is unique to the individual, and triggered by exposure of an individual to the identified substance or substance class.
 
-\*\*\
-\*\***Use**
+## **Use**
 
 Use to provide a single place within the health record to document a range of clinical statements about adverse reactions, including:
 
@@ -72,8 +73,9 @@ Valuable first-level information that could be presented to the clinician when t
 
 Second-level information can be drawn from each exposure event and links to additional detailed information such as history, examination and diagnoses stored elsewhere in the record, if it is available.
 
-\*\*Out of scope\
-\*\* The archetype is not to be used for recording physiological reactions to physical agents, such as heat, cold, sunlight, vibration, exercise activity, by infectious agents or food contaminants. Use archetypes/FHIR® resources for Problem/Diagnosis (openEHR) or Conditions (FHIR®).
+## Out of scope
+
+The archetype is not to be used for recording physiological reactions to physical agents, such as heat, cold, sunlight, vibration, exercise activity, by infectious agents or food contaminants. Use archetypes/FHIR® resources for Problem/Diagnosis (openEHR) or Conditions (FHIR®).
 
 Not to be used to record adverse events, including failures of clinical process, interventions or products. For example:
 

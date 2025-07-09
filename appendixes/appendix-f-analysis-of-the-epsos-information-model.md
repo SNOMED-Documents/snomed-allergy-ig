@@ -18,25 +18,25 @@ The value set was selected to cods the patient's kind of adverse reactions again
 
 The Value Set was created to code the allergenic agents (apart from drugs) against which the patient has developed an adverse reaction due to the fact that this type of information was not part of the CDA/CCD Allergy Model. The value set was created in a 5-step workflow (created, review by clinician, reviewed by semantic team, revised by clinician, reviewed and approved by Semantic Team). Relevant sub-hierarchies in SNOMED CT were selected and some single terms. The value set was validated by the Semantic Team for acceptance as a minimum value set/data set.
 
-  
+Data\
+element\
+level 1\
+(cardinality)| Data element level 3\
+(cardinality)| COMMENTS| BASIC (Basic)\
+/ EXTENDED\
+(Ext)\
+DATASET| Null flavour Yes/No\
+\---|---|---|---|---\
+Allergy| Allergy Display name|\
+\| Basic| Yes\
+Allergy code| The code of the allergy| Basic| Yes\
+Onset date| Date when the allergy started| Ext| No\
+Agent description| Description of the allergen agent| Basic| Ext\
+Agent code| The code of the allergen agent| Basic| Ext
 
-Data   
-element   
-level 1   
-(cardinality)| Data element level 3   
-(cardinality)| COMMENTS| BASIC (Basic)   
-/ EXTENDED   
-(Ext)   
-DATASET| Null flavour Yes/No  
----|---|---|---|---  
-Allergy| Allergy Display name|   
-| Basic| Yes  
-Allergy code| The code of the allergy| Basic| Yes  
-Onset date| Date when the allergy started| Ext| No  
-Agent description| Description of the allergen agent| Basic| Ext  
-Agent code| The code of the allergen agent| Basic| Ext  
-  
-## Value Sets:
+<table data-header-hidden><thead><tr><th width="159.5078125"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Data<br>element<br>level 1<br>(cardinality)</td><td>Data element level 3<br>(cardinality)</td><td>COMMENTS</td><td>BASIC (Basic)<br>/ EXTENDED<br>(Ext)<br>DATASET</td><td>Null flavour Yes/No</td></tr><tr><td>Allergy</td><td>Allergy Display name</td><td><br></td><td>Basic</td><td>Yes</td></tr><tr><td>Allergy</td><td>Allergy code</td><td>The code of the allergy</td><td>Basic</td><td>Yes</td></tr><tr><td>Allergy</td><td>Onset date</td><td>Date when the allergy started</td><td>Ext</td><td>No</td></tr><tr><td>Allergy</td><td>Agent description</td><td>Description of the allergen agent</td><td>Basic</td><td>Ext</td></tr><tr><td>Allergy</td><td>Agent code</td><td>The code of the allergen agent</td><td>Basic</td><td>Ext</td></tr></tbody></table>
+
+## <mark style="color:blue;">Value Sets:</mark>
 
 epSOSReactionAllergy
 
