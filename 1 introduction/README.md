@@ -41,29 +41,29 @@ SNOMED CT is a comprehensive, multilingual clinical terminology that can be used
 
 ## Attribution
 
-This SNOMED CT Implementation guide and the underlying work have been developed by the **SNOMED International Clinical Reference Group for Allergies/Hypersensitivity**. The Clinical Reference Group (CRG) is composed of experts in the field of Allergies/Hypersensitivity providing input from the community of practice on the development, maintenance, and use of SNOMED CT in this specific domain. The CRG members have been instrumental in the development of this guide, providing their expertise, knowledge, and experience to ensure that it is accurate, up-to-date, and relevant to the needs of its intended audience. Their dedication and hard work have made this guide possible and SNOMED Internationalis is grateful for their contributions. This guide is a product of SNOMED International's ongoing commitment to improving healthcare through the use of high-quality, standardized clinical terminologies.
+This SNOMED CT Implementation guide and the underlying work have been developed by the **SNOMED International Clinical Reference Group for Allergies/Hypersensitivity**. The Clinical Reference Group (CRG) is composed of experts in the field of Allergies/Hypersensitivity providing input from the community of practice on the development, maintenance, and use of SNOMED CT in this specific domain. The CRG members have been instrumental in the development of this guide, providing their expertise, knowledge, and experience to ensure that it is accurate, up-to-date, and relevant to the needs of its intended audience. Their dedication and hard work have made this guide possible and SNOMED International is grateful for their contributions. This guide is a product of SNOMED International's ongoing commitment to improving healthcare through the use of high-quality, standardized clinical terminologies.
 
 ## Guide Overview
 
-This SNOMED CT Implementation Guide is designed to provide guidance for the use of SNOMED CT within the domain of allergies, hypersensitivity, and intolerance. The guide is organized into five main chapters:
+This SNOMED CT Implementation Guide is designed to provide guidance for the use of SNOMED CT within the domain of allergies, hypersensitivity, and intolerance. The guide is organized into five main sections:
 
-* Chapter 1:**Introduction** - This chapter provides a background on the guide, including the objectives, scope, and target audience.
-* Chapter 2: **Clinical Use Cases** - This chapter describes the key use cases that have motivated the creation of this guide and explains scenarios where implementation of SNOMED CT within this domain is needed.
-* Chapter 3: **Allergy Content in SNOMED CT** - This chapter describes how SNOMED CT addresses the terminological needs within the domain of allergies, hypersensitivities, and intolerances. It also elaborates on relevant editorial policies and concept model rules established to ensure the quality of the content.
-* Chapter 4: **Information Model and Terminology Binding** - This chapter introduces HL7 FHIR as a recommended information model that can be used within the field of allergies, hypersensitivities, and intolerances to facilitate the harmonization and interoperability of data within this domain. It also clarifies the bindings between this and SNOMED CT.
-* Chapter 5: **Technical Application** - This chapter presents technical considerations related the implementation of SNOMED CT and FHIR for allergy-related data capture.
+* **Introduction** - This chapter provides a background on the guide, including the objectives, scope, and target audience.
+* **Clinical Use Cases** - This chapter describes the key use cases that have motivated the creation of this guide and explains scenarios where implementation of SNOMED CT within this domain is needed.
+* **Allergy Content in SNOMED CT** - This chapter describes how SNOMED CT addresses the terminological needs within the domain of allergies, hypersensitivities, and intolerances. It also elaborates on relevant editorial policies and concept model rules established to ensure the quality of the content.
+* **Information Model and Terminology Binding** - This chapter introduces HL7 FHIR as a recommended information model that can be used within the field of allergies, hypersensitivities, and intolerances to facilitate the harmonization and interoperability of data within this domain. It also clarifies the bindings between this and SNOMED CT.
+* **Technical Application** - This chapter presents technical considerations related the implementation of SNOMED CT and FHIR for allergy-related data capture.
 
-In addition, a number of appendixes present the results of the analysis performed and provide insights into the evolution of SNOMED CT and available information models.
+In addition, a number of appendices present the results of the analysis performed and provide insights into the evolution of SNOMED CT and available information models.
 
-* [Appendix A: Glossary of Terms](https://confluence.ihtsdotools.org/display/WIPALLSIG/Appendix+A%3A+Glossary+of+Terms?src=sidebar)
-* [Appendix B: Historical SNOMED CT content perspective](https://confluence.ihtsdotools.org/display/WIPALLSIG/Appendix+B%3A+Historical+SNOMED+CT+content+perspective?src=sidebar)
-* [Appendix C: Analysis of the HL7 C-CDA model](https://confluence.ihtsdotools.org/display/WIPALLSIG/Appendix+C%3A+Analysis+of+the+HL7+C-CDA+model?src=sidebar)
-* [Appendix D: Analysis of the HL7 Patient Care Domain Analysis Model](https://confluence.ihtsdotools.org/display/WIPALLSIG/Appendix+D%3A+Analysis+of+the+HL7+Patient+Care+Domain+Analysis+Model?src=sidebar)
-* [Appendix E: Analysis of the ISO International Patient Summary (IPS)](https://confluence.ihtsdotools.org/pages/viewpage.action?pageId=180914727\&src=sidebar)
-* [Appendix F: Analysis of the epSOS information model](https://confluence.ihtsdotools.org/display/WIPALLSIG/Appendix+F%3A+Analysis+of+the+epSOS+information+model?src=sidebar)
-* [Appendix G: Analysis of the openEHR information model](https://confluence.ihtsdotools.org/display/WIPALLSIG/Appendix+G%3A+Analysis+of+the+openEHR+information+model?src=sidebar)
-* [Appendix H: Analysis of the US Federal Health Information Model](https://confluence.ihtsdotools.org/display/WIPALLSIG/Appendix+H%3A+Analysis+of+the+US+Federal+Health+Information+Model?src=sidebar)
-* [Appendix I: Inclusive Information Model](https://confluence.ihtsdotools.org/display/WIPALLSIG/Appendix+I%3A+Inclusive+Information+Model?src=sidebar)
+* [Appendix A: Glossary of Terms](../appendixes/appendix-a-glossary-of-terms.md)
+* [Appendix B: Historical SNOMED CT content perspective](../appendixes/appendix-b-historical-snomed-ct-content-perspective.md)
+* [Appendix C: Analysis of the HL7 C-CDA model](../appendixes/appendix-c-analysis-of-the-hl7-c-cda-model.md)
+* [Appendix D: Analysis of the HL7 Patient Care Domain Analysis Model](../appendixes/appendix-d-analysis-of-the-hl7-patient-care-domain-analysis-model.md)
+* [Appendix E: Analysis of the ISO International Patient Summary (IPS)](../appendixes/appendix-e-analysis-of-the-iso-international-patient-summary-ips.md)
+* [Appendix F: Analysis of the epSOS information model](../appendixes/appendix-f-analysis-of-the-epsos-information-model.md)
+* [Appendix G: Analysis of the openEHR information model](../appendixes/appendix-g-analysis-of-the-openehr-information-model.md)
+* [Appendix H: Analysis of the US Federal Health Information Model](../appendixes/appendix-h-analysis-of-the-us-federal-health-information-model.md)
+* [Appendix I: Inclusive Information Model](../appendixes/appendix-i-inclusive-information-model.md)
 
 ## Review
 
