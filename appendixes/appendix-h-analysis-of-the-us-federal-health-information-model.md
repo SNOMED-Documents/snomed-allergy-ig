@@ -18,7 +18,7 @@ The Federal Health Information Model is a UML construct defining classes of data
 
 ***
 
-Coded attributes from this model which relate to use case 1: “Allergic reaction to hydrochlorothiazide consisting of hives” might be:
+Coded attributes from this model which relate to [#use-case-1-documentation-of-information-related-to-allergy-hypersensitivity-and-intolerance](<../4 information-model-and-terminology-binding/4.3-examples.md#use-case-1-documentation-of-information-related-to-allergy-hypersensitivity-and-intolerance> "mention") : “Allergic reaction to hydrochlorothiazide consisting of hives” might be:
 
 <table><thead><tr><th width="221.2578125">Attribute</th><th width="221.24609375">Value</th></tr></thead><tbody><tr><td>observedCharacteristic</td><td>NULL</td></tr><tr><td>bodySite</td><td>“skin”</td></tr><tr><td>observationMethod</td><td></td></tr><tr><td>certainty</td><td>“likely”</td></tr><tr><td>exposureRoute</td><td>“ingested”</td></tr><tr><td>reaction</td><td>“Hives”</td></tr><tr><td>severity</td><td>6736007 |Moderate|</td></tr></tbody></table>
 
@@ -28,7 +28,7 @@ Coded attributes from this model which relate to use case 1: “Allergic reactio
 
 <figure><img src="../images/180920442.png" alt=""><figcaption></figcaption></figure>
 
-Coded attributes from this model which relate to use case 2.1.2: “Propensity for allergic reaction to hydrochlorothiazide with history of hives” might be:
+Coded attributes from this model which relate to [#use-case-2-sharing-adverse-reaction-data](<../4 information-model-and-terminology-binding/4.3-examples.md#use-case-2-sharing-adverse-reaction-data> "mention"): “Propensity for allergic reaction to hydrochlorothiazide with history of hives” might be:
 
 **Class attributes FHIM Intolerance Condition**
 
