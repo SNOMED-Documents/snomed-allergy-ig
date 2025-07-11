@@ -42,3 +42,10 @@ Coded attributes from this model which relate to [#use-case-2-sharing-adverse-re
 | reactantCategory            | “medication”       |
 
 ***
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Appendix%20H%3A%20Analysis%20of%20the%20US%20Federal%20Health%20Information%20Model" class="button primary">Provide Feedback</a>

@@ -5,3 +5,10 @@ This **SNOMED CT Implementation Guide for Allergy, Hypersensitivity, and Intoler
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="1 introduction/">Introduction</a></td></tr><tr><td><a href="2 clinical-use-case/">Clinical Use Cases</a></td></tr><tr><td><a href="3 allergy-content-in-snomed-ct/">Allergy Content in SNOMED CT</a></td></tr><tr><td><a href="4 information-model-and-terminology-binding/">Information Model and Terminology Binding</a></td></tr><tr><td><a href="5 implementation-considerations/">Implementation Considerations</a></td></tr></tbody></table>
 
 {% include "https://app.gitbook.com/s/5ePKL1wPtOcE6DS3HJBR/~/reusable/MLPTPVV150ldNmCkOl87/" %}
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=SNOMED%20CT%20Implementation%20Guide%20for%20Allergy%2C%20Hypersensitivity%20and%20Intolerance" class="button primary">Provide Feedback</a>

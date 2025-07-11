@@ -72,3 +72,10 @@ This SNOMED CT Implementation guide represents the culmination of work started b
 We welcome feedback from readers on the guide and encourage them to share their insights and experiences with us. Your comments and suggestions will help us improve the content of the guide and ensure that it is relevant and useful to those who use it. We will review any feedback received and make updates to the guide as needed.
 
 We appreciate your interest in this guide and thank you for your contributions to the improvement of healthcare through the use of high-quality, standardized clinical terminologies like SNOMED CT. Please raise any comments to this document via the feedback button (At the bottom of the page).
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Introduction" class="button primary">Provide Feedback</a>

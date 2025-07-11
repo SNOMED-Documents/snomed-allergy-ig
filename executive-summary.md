@@ -12,3 +12,10 @@ Chapter three elaborates on how SNOMED CT addresses the terminological needs wit
 Overall, this SNOMED CT Implementation Guide provides practical guidance for healthcare providers, information managers, and software developers looking to integrate SNOMED CT into their workflows within the domain of allergy, hypersensitivity, and intolerance. It represents a culmination of work started by the Implementation SIG in 2014 and continued by the SNOMED International Clinical Reference Group for Allergies/Hypersensitivity starting in 2020.
 
 The guide is particularly relevant for clinicians who are interested in understanding how SNOMED CT can support the needs for clinical documentation, clinical decision support and data sharing in the domain of allergy, hypersensitivity, and intolerance. It is also useful for information managers to learn how SNOMED CT can be integrated into health information models within this domain. Finally, software developers can learn how to integrate SNOMED CT into software applications in this domain and to exchange clinical data using HL7 FHIR.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Executive%20Summary" class="button primary">Provide Feedback</a>

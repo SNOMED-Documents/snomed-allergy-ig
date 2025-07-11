@@ -30,3 +30,10 @@ Intolerance (to a substance) is a propensity to an adverse reaction, which is no
 
 <figure><img src="../images/180920395.png" alt=""><figcaption><p> Diagrammatic representation in stated view of concept 782197009 |Intolerance to substance (finding)| as in the International Edition version 20230228</p></figcaption></figure>
 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Allergy%20Content%20in%20SNOMED%20CT" class="button primary">Provide Feedback</a>

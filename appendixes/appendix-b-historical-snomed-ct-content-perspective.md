@@ -16,3 +16,10 @@ Revising SNOMED CT to the three classes model meant that hypersensitivity data w
       * 419076005 <mark style="color:blue;">|</mark>Allergic reaction (disorder)<mark style="color:blue;">|</mark>
       * 609328004 <mark style="color:blue;">|</mark>Allergic disposition (finding)<mark style="color:blue;">|</mark>
 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Appendix%20B%3A%20Historical%20SNOMED%20CT%20content%20perspective" class="button primary">Provide Feedback</a>

@@ -14,3 +14,10 @@ The following table contains the definition of any terms used within this docume
 
 1. Joint Task Force on Practice Parameters; American Academy of Allergy, Asthma and Immunology; American College of Allergy, Asthma and Immunology; Joint Council of Allergy, Asthma and Immunology. Drug allergy: an updated practice parameter. Ann Allergy Asthma Immunol. 2010 Oct; 105(4):259-273. doi: 10.1016/j.anai.2010.08.002.
 2. Thanai Pongdee. Food Allergy Versus Food Intolerance. Published by American Academy of Allergy Asthma & Immunology 02/2011.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Appendix%20A%3A%20Glossary%20of%20Terms" class="button primary">Provide Feedback</a>

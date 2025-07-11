@@ -21,3 +21,10 @@ The following tables depict the three classes and their data elements. Only data
 <table data-header-hidden><thead><tr><th></th><th width="502.2109375"></th><th></th></tr></thead><tbody><tr><td><strong>Data element</strong></td><td><strong>Description</strong></td><td><strong>Notes</strong></td></tr><tr><td><strong>Substance</strong></td><td>Represents the specific allergen or other agent/substance to which the patient has an adverse reaction propensity. A substance is a physical material which can mean a drug or biologic, food, chemical agent, plants, animals, plastics etc.</td><td></td></tr><tr><td><strong>Adverse sensitivity test performed</strong></td><td>Represents the specific allergy test being performed ex: LOINC code 6206-7 Peanut IgE Ab [Units/volume] in Serum</td><td></td></tr><tr><td><strong>Adverse sensitivity test result</strong></td><td>Represents the test result</td><td></td></tr></tbody></table>
 
 There were other published allergy and hypersensitivity information models being considered at the initial drafting of this document in 2014, which included epSOS, openEHR, US Federal Health Information Model and UK NHS Connecting for Health Information Model. Their analysis fed into the creation of the inclusive model. Since then, HL7®-related information models, especially FHIR®, have become increasingly popular. Therefore, this document focuses more on these models. The analyses of the other models can be found in the Appendix. Note that the information may not be up-to-date, and some of the projects which created the models may no longer be active (e.g. the epSOS project concluded in 2014).
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Appendix%20I%3A%20Inclusive%20Information%20Model" class="button primary">Provide Feedback</a>

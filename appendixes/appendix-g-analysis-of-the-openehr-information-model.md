@@ -98,3 +98,10 @@ Not to be used for recording failed therapy.
 Not to be used for the explicit recording of an absence (or negative presence) of a reaction to 'any substances' or to identified substances, for example ‘No known allergies or adverse reactions’ or ‘No known allergies to Penicillin’. Use the EVALUATION. exclusion-adverse\_reaction archetype to express a positive statement of adverse reaction exclusion.
 
 Not to be used for the explicit recording that no information could be obtained about the adverse reaction status of a patient. Use the EVALUATION.absence archetype to record that a positive statement that information could not be obtained, for example, if a non-cooperative patient refuses to answer questions.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Appendix%20G%3A%20Analysis%20of%20the%20openEHR%20information%20model" class="button primary">Provide Feedback</a>

@@ -9,3 +9,10 @@
 * [Appendix G: Analysis of the openEHR information model](appendix-g-analysis-of-the-openehr-information-model.md)
 * [Appendix H: Analysis of the US Federal Health Information Model](appendix-h-analysis-of-the-us-federal-health-information-model.md)
 * [Appendix I: Inclusive Information Model](appendix-i-inclusive-information-model.md)
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Appendix" class="button primary">Provide Feedback</a>

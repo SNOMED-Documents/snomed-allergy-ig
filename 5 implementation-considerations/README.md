@@ -6,3 +6,10 @@ Implementing the recording and allergy, hypersensitivity, and intolerance inform
 * [Enabling Clinical Decision Support](5.2-enabling-clinical-decision-support.md)
 * [Terminology Services](5.3-terminology-services.md)
 * [Demonstration app](5.4-demonstration-app.md)
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Implementation%20Considerations" class="button primary">Provide Feedback</a>

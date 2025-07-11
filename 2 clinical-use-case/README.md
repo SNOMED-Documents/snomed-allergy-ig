@@ -45,3 +45,10 @@ Electronically-stored allergy, hypersensitivity and intolerance information info
 ### Scenario 3.1: Potential adverse reaction alerts
 
 Electronic health records should be able to leverage the stored information to run clinical decision support systems to alert clinicians of potential adverse reactions due to allergy, hypersensitivity and intolerance.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Clinical%20Use%20Cases" class="button primary">Provide Feedback</a>

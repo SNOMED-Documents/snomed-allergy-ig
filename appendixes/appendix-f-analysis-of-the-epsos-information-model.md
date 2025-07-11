@@ -41,3 +41,10 @@ If not:
 epSOSAllergennoDrugs
 
 2.16.840.1.113883.6.96
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Appendix%20F%3A%20Analysis%20of%20the%20epSOS%20information%20model" class="button primary">Provide Feedback</a>

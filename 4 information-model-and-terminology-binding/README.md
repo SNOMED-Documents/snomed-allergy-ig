@@ -8,3 +8,10 @@ The use of HL7® FHIR® with SNOMED CT has gained considerable momentum in recen
 * [Terminology Bindings](4.2-terminology-bindings.md)
 * [Examples](4.3-examples.md)
 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Information%20Model%20and%20Terminology%20Binding" class="button primary">Provide Feedback</a>

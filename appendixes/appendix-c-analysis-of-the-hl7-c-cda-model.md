@@ -30,3 +30,10 @@ This template represents the results of a laboratory, radiology, or other study 
 The result observation includes a statusCode to allow recording the status of an observation. “Pending” results (e.g., a test has been run but results have not been reported yet) should be represented as “active” ActStatus.
 
 For examples of C-CDA templates, see the [C-CDA implementation guide](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=492).
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Appendix%20C%3A%20Analysis%20of%20the%20HL7%20C-CDA%20model" class="button primary">Provide Feedback</a>
