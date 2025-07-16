@@ -18,7 +18,7 @@ The Federal Health Information Model is a UML construct defining classes of data
 
 ***
 
-Coded attributes from this model which relate to [#use-case-1-documentation-of-information-related-to-allergy-hypersensitivity-and-intolerance](<../4 information-model-and-terminology-binding/4.3-examples.md#use-case-1-documentation-of-information-related-to-allergy-hypersensitivity-and-intolerance> "mention") : “Allergic reaction to hydrochlorothiazide consisting of hives” might be:
+Coded attributes from this model which relate to [#use-case-1-documentation-of-information-related-to-allergy-hypersensitivity-and-intolerance](<../2 clinical-use-case/#use-case-1-documentation-of-information-related-to-allergy-hypersensitivity-and-intolerance> "mention") : “Allergic reaction to hydrochlorothiazide consisting of hives” might be:
 
 <table><thead><tr><th width="221.2578125">Attribute</th><th width="221.24609375">Value</th></tr></thead><tbody><tr><td>observedCharacteristic</td><td>NULL</td></tr><tr><td>bodySite</td><td>“skin”</td></tr><tr><td>observationMethod</td><td></td></tr><tr><td>certainty</td><td>“likely”</td></tr><tr><td>exposureRoute</td><td>“ingested”</td></tr><tr><td>reaction</td><td>“Hives”</td></tr><tr><td>severity</td><td>6736007 |Moderate|</td></tr></tbody></table>
 
@@ -43,9 +43,4 @@ Coded attributes from this model which relate to [#use-case-2-sharing-adverse-re
 
 ***
 
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Appendix%20H%3A%20Analysis%20of%20the%20US%20Federal%20Health%20Information%20Model" class="button primary">Provide Feedback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Allergy+IG&#x26;entry.670899847=Appendix%20H%3A%20Analysis%20of%20the%20US%20Federal%20Health%20Information%20Model" class="button primary">Provide Feedback</a>
