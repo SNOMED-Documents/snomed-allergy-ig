@@ -26,7 +26,7 @@ Concept models for representative allergic conditions are illustrated below (in 
 
 ## Intolerance
 
-Intolerance (to a substance) is a propensity to an adverse reaction, which is not an allergy or a non-allergic hypersensitivity, and may be idiosyncratic and/or individually specific (as noted in [FHIR® Release 4](http://hl7.org/fhir/R4/allergyintolerance.html)). [782197009 <mark style="color:blue;">|</mark> Intolerance to substance (finding)<mark style="color:blue;">|</mark>](http://snomed.info/id/782197009) is thus a sibling to [609433001 <mark style="color:blue;">|</mark> Hypersensitivity disposition (finding)<mark style="color:blue;">|</mark>](http://snomed.info/id/609433001) and is modeled as shown below:
+Intolerance (to a substance) is a propensity to an adverse reaction, which is not an allergy or a non-allergic hypersensitivity, and may be idiosyncratic and/or individually specific (as noted in [FHIR® Release 4](http://hl7.org/fhir/R4/allergyintolerance.html)). 782197009 <mark style="color:blue;">|</mark> Intolerance to substance (finding)<mark style="color:blue;">|</mark> is thus a sibling to 609433001 <mark style="color:blue;">|</mark> Hypersensitivity disposition (finding)<mark style="color:blue;">|</mark> and is modeled as shown below:
 
 <figure><img src="../images/180920395.png" alt=""><figcaption><p>Diagrammatic representation in stated view of concept 782197009 |Intolerance to substance (finding)| as in the International Edition version 20230228</p></figcaption></figure>
 
