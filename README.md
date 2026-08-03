@@ -1,3 +1,9 @@
+---
+cover: .gitbook/assets/GitBook Banner.png
+coverY: 0
+coverHeight: 232
+---
+
 # SNOMED CT Implementation Guide for Allergy, Hypersensitivity and Intolerance
 
 This **SNOMED CT Implementation Guide for Allergy, Hypersensitivity, and Intolerance** offers practical, standardized guidance for documenting adverse sensitivity data across healthcare settings. Aimed at clinicians, information managers, and software developers seeking to integrate SNOMED CT into their workflows, the guide outlines best practices for applying SNOMED CT to support clinical documentation, decision support, and data sharing. It covers key use cases, terminological needs, integration with HL7 FHIR for data exchange, and technical considerations for documenting adverse sensitivity in EHRs using both substance-focused and findings-focused models. Developed through international collaboration, the guide supports consistent and interoperable recording of allergy-related information in electronic health records.
@@ -6,9 +12,4 @@ This **SNOMED CT Implementation Guide for Allergy, Hypersensitivity, and Intoler
 
 {% include "https://app.gitbook.com/s/5ePKL1wPtOcE6DS3HJBR/~/reusable/MLPTPVV150ldNmCkOl87/" %}
 
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=SNOMED%20CT%20Implementation%20Guide%20for%20Allergy%2C%20Hypersensitivity%20and%20Intolerance" class="button primary">Provide Feedback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Allergy+IG&#x26;entry.670899847=SNOMED%20CT%20Implementation%20Guide%20for%20Allergy%2C%20Hypersensitivity%20and%20Intolerance" class="button primary">Provide Feedback</a>

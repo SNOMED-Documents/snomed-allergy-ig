@@ -4,7 +4,7 @@ After considering reference information models from various standards developmen
 
 The image below illustrates the inclusive information model and shows the relationship between the three classes included in the model. The **Propensity** class is the centerpiece. A propensity class may be associated with zero-to-many **Adverse Reaction** classes and zero-to-many **Adverse** **Sensitivity Test Result** classes.
 
-<figure><img src="../images/180920427.png" alt=""><figcaption><p> Inclusive information model for XXX. A conceptual framework to understand and align the various models.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/180920427.png" alt=""><figcaption><p>Inclusive information model for XXX. A conceptual framework to understand and align the various models.</p></figcaption></figure>
 
 The following tables depict the three classes and their data elements. Only data elements specific to the adverse sensitivity use case are shown. Generic data elements such as date, time, patient and provider identifiers are omitted.
 
@@ -22,9 +22,4 @@ The following tables depict the three classes and their data elements. Only data
 
 There were other published allergy and hypersensitivity information models being considered at the initial drafting of this document in 2014, which included epSOS, openEHR, US Federal Health Information Model and UK NHS Connecting for Health Information Model. Their analysis fed into the creation of the inclusive model. Since then, HL7®-related information models, especially FHIR®, have become increasingly popular. Therefore, this document focuses more on these models. The analyses of the other models can be found in the Appendix. Note that the information may not be up-to-date, and some of the projects which created the models may no longer be active (e.g. the epSOS project concluded in 2014).
 
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Appendix%20I%3A%20Inclusive%20Information%20Model" class="button primary">Provide Feedback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Allergy+IG&#x26;entry.670899847=Appendix%20I%3A%20Inclusive%20Information%20Model" class="button primary">Provide Feedback</a>

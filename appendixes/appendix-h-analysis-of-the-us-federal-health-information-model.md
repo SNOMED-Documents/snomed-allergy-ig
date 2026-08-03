@@ -14,7 +14,7 @@ The Federal Health Information Model is a UML construct defining classes of data
 
 **FHIM: ReactionObservation class**
 
-<figure><img src="../images/180920441.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/180920441.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -26,7 +26,7 @@ Coded attributes from this model which relate to [#use-case-1-documentation-of-i
 
 **FHIM:IntoleranceCondition class and selected value sets**
 
-<figure><img src="../images/180920442.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/180920442.png" alt=""><figcaption></figcaption></figure>
 
 Coded attributes from this model which relate to [#use-case-2-sharing-adverse-reaction-data](<../4 information-model-and-terminology-binding/4.3-examples.md#use-case-2-sharing-adverse-reaction-data> "mention"): “Propensity for allergic reaction to hydrochlorothiazide with history of hives” might be:
 

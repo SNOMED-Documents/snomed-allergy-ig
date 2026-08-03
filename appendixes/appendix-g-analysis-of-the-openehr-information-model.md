@@ -4,7 +4,7 @@ Status – the FHIR®/openEHR archetype for Adverse Reaction Risk is in its four
 
 [http://www.openehr.org/ckm/](http://www.openehr.org/ckm/) (search for Adverse Reaction Risk)
 
-<figure><img src="../images/180920439.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/180920439.png" alt=""><figcaption></figcaption></figure>
 
 Data elements that could be encoded incude:
 
@@ -99,9 +99,4 @@ Not to be used for the explicit recording of an absence (or negative presence) o
 
 Not to be used for the explicit recording that no information could be obtained about the adverse reaction status of a patient. Use the EVALUATION.absence archetype to record that a positive statement that information could not be obtained, for example, if a non-cooperative patient refuses to answer questions.
 
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Allergy+IG&entry.670899847=Appendix%20G%3A%20Analysis%20of%20the%20openEHR%20information%20model" class="button primary">Provide Feedback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Allergy+IG&#x26;entry.670899847=Appendix%20G%3A%20Analysis%20of%20the%20openEHR%20information%20model" class="button primary">Provide Feedback</a>
